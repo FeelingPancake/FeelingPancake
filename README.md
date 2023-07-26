@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FeelingPancake
 - 👀 I’m interested in computer science, especially Web
-- 🌱 I’m currently learning react,redux, nextjs, planning someday to learn three.js, angular and many things))
+- 🌱 I’m currently learning react,redux, nextjs, well, some day will learn angular and many other cool styff.
 
 <!---
 FeelingPancake/FeelingPancake is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
