@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I’m @FeelingPancake</h1>
+<h1 align="center">I’m @FeelingPancake</h1>
 <h3 align="center">👀 I’m interested in computer science, trying to become software engineer</h3> 
 
 <div align="center">
